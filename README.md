@@ -20,19 +20,13 @@ The network is investigated with measures chosen to answer specific questions: g
 - **Four communities** (Louvain, Q = 0.625 against 0.41 in random networks) arranged in a row and linked by 6, 3 and 2 edges.
 - **Neither random, small-world nor scale-free**; closest to a lattice-like chain of blocks. The network is almost one-dimensional (algebraic connectivity 0.048 versus 0.777 in the null model).
 
-![Louvain communities](figures/fig_communities.png)
-![Triangles and clustering](figures/fig_triangles.png)
-
 ## Repository contents
 
 | File | Content |
 |---|---|
 | `analysis.ipynb` | Notebook with all code and executed outputs |
 | `index.html` | The same notebook as a web page (GitHub Pages) |
-| `network_report.pdf` | Two-page written report |
 | `edgelist.txt` | Supplied network (each edge listed in both directions) |
-| `figures/` | Figures produced by the notebook |
-| `requirements.txt` | Python packages |
 
 ## Data
 
