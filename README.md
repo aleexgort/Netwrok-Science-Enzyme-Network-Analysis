@@ -5,7 +5,7 @@ Undirected network representing an enzyme structural graph. Investigation the st
 
 Network analysis of an enzyme structural graph (51 nodes, 110 undirected edges) for the course **Network Science (HS26)**, Master Data Science, UZH.
 
-**[Live notebook with all outputs]([https://aleexgort.github.io/Netwrok-Science-Enzyme-Network-Analysis/](https://aleexgort.github.io/Netwrok-Science-Enzyme-Network-Analysis/Individual%20Assignment/Code.html)** · [Notebook source](Code.ipynb)
+**[Live notebook with all outputs]([https://aleexgort.github.io/Netwrok-Science-Enzyme-Network-Analysis/Individual%20Assignment/Code.html])** · [Notebook source](Code.ipynb)
 
 ## What this project does
 
